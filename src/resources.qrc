@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/document-open.png</file>
+        <file>icons/document-open-folder.png</file>
+        <file>icons/view-refresh.png</file>
+    </qresource>
+</RCC>
