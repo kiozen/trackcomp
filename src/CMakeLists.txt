@@ -1,10 +1,10 @@
 ##---------------------------------------------------------------------------
-## File:        CMakeLists.txt (DTI Package)
+# ## File:        CMakeLists.txt
 ##
-## Description: CMake file for building DTI Package
+## Description: 
 ##
 ##---------------------------------------------------------------------------
-## Author:      Oliver Eichler, Ulrich Erkelenz
+## Author:      Oliver Eichler
 ##---------------------------------------------------------------------------
 
 # Set additional include directory
